@@ -30,6 +30,8 @@ products:
   - image: img/working_place.jpg
     text: the place where I am working now, to proceed my daily routines, involve in
       development progress of my country in Information and Technology area.
+  - image: img/fun2.jpeg
+    text: With my Sweet heart..
 values:
   heading: mY daily routines ....
   text: I was dedicated my self my job, I love it, what I am doing not just to get
