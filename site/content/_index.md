@@ -27,15 +27,12 @@ products:
       of coffee beans grown with great care for the environment and local
       communities. Check our post or contact us directly for current
       availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: img/working_place.jpg
+    text: the place where I am working now, to proceed my daily routines, involve in
+      development progress of my country in Information and Technology area.
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: mY daily routines ....
+  text: I was dedicated my self my job, I love it, what I am doing not just to get
+    paid in the end of month, but more as my hobby. again I love it, because all
+    activities that I do everyday as my passion.
 ---
