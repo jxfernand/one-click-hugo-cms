@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: leaders should learn to code
+subtitle: The Power and Logic of Articulation
 image: img/img0d.jpg
 blurb:
   heading: About me?
