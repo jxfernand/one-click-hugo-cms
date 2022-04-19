@@ -3,7 +3,7 @@ title: Contact
 logo: img/jf.yelow.png
 contact_entries:
   - heading: Location
-    text: 3153 Lynn Avenue, South San Francisco, California 94080
+    text: Palacio do Governo, Dili, Timor-Leste
   - heading: Working hours
     text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
