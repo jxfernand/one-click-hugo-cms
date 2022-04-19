@@ -18,13 +18,10 @@ blurb:
 
     3. Be able to Work in multi-culture environment"
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: mY pAsSiOn
+  text: Graphics design, Multimedia, Computer Engineering, Computer programmer
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/jf1.jpg
     text: We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
       of coffee beans grown with great care for the environment and local
