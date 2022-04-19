@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: img/jf.yelow.png
+logo: img/logo.svg
 contact_entries:
   - heading: Location
     text: Palacio do Governo, Dili, Timor-Leste
